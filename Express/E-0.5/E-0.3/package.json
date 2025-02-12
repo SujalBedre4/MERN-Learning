@@ -1,0 +1,12 @@
+{
+  "name": "E-0.3",
+  "version": "1.0.0",
+  "description": "Here, we will learn about the Template Engine",
+  "main": "index.js",
+  "author": "Keren",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2"
+  }
+}

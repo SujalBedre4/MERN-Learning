@@ -1,0 +1,10 @@
+{
+  "name": "E-0.2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Keren",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "E-0.5",
+  "version": "1.0.0",
+  "description": "Route Level Middleware",
+  "main": "index.js",
+  "author": "Keren",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "E-0.4",
+  "version": "1.0.0",
+  "description": "Middleware using",
+  "main": "index.js",
+  "author": "Keren",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2"
+  }
+}
