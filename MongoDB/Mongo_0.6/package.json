@@ -1,0 +1,13 @@
+{
+  "name": "Mongo_0.6",
+  "version": "1.0.0",
+  "description": "Here, we are working on the uploading the file",
+  "main": "index.js",
+  "author": "Keren",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.10.0",
+    "multer": "^1.4.5-lts.1"
+  }
+}

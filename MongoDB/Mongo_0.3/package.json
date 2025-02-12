@@ -1,0 +1,12 @@
+{
+  "name": "Mongo_0.3",
+  "version": "1.0.0",
+  "description": "API through the MongoDB",
+  "main": "index.js",
+  "author": "Keren",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongodb": "^6.13.0"
+  }
+}
