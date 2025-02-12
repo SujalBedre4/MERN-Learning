@@ -1,0 +1,8 @@
+{
+  "name": "Node-5.0",
+  "version": "1.0.0",
+  "description": "This is where we are performing the CRUD operations",
+  "main": "index.js",
+  "author": "Kerenn",
+  "license": "MIT"
+}

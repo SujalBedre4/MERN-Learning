@@ -1,0 +1,8 @@
+{
+  "name": "Node-3.0",
+  "version": "1.0.0",
+  "description": "Where we are taking an input from the command line",
+  "main": "index.js",
+  "author": "Keren",
+  "license": "MIT"
+}

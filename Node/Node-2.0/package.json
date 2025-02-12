@@ -1,0 +1,9 @@
+{
+  "name": "Simple_API",
+  "version": "1.0.0",
+  "description": "Here, we are making a Simple API",
+  "main": "index.js",
+  "repository": "https://github.com/SujalBedre4/NodeJS",
+  "author": "Sujal",
+  "license": "MIT"
+}

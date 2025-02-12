@@ -1,0 +1,8 @@
+{
+  "name": "Node-7.0",
+  "version": "1.0.0",
+  "description": "Where we will learn about the Call Stack working and Node API's.",
+  "main": "index.js",
+  "author": "Keren",
+  "license": "MIT"
+}

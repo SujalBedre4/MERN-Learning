@@ -1,0 +1,8 @@
+{
+  "name": "Node-4.0",
+  "version": "1.0.0",
+  "description": "This where we will learn, how to create a files and other things using the Node",
+  "main": "index.js",
+  "author": "Keren",
+  "license": "MIT"
+}

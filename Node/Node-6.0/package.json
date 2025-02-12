@@ -1,0 +1,8 @@
+{
+  "name": "Node-6.0",
+  "version": "1.0.0",
+  "description": "Here, we'll learn about file asynchronous",
+  "main": "index.js",
+  "author": "Keren",
+  "license": "MIT"
+}
