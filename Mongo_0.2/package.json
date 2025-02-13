@@ -1,0 +1,7 @@
+{
+  "name": "Mongo_0.2",
+  "packageManager": "yarn@4.5.2",
+  "dependencies": {
+    "mongodb": "^6.13.0"
+  }
+}
